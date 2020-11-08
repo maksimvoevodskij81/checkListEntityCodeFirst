@@ -77,7 +77,7 @@ namespace entityCheckListConsol
 
             // program.AddCategory();
             //program.AddTask();
-          
+            Console.WriteLine(  "Hello");
             // }
         }
 
